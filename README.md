@@ -53,3 +53,5 @@
   - `tkinter` (входит в стандартную библиотеку Python)
 
 ## Видео
+https://github.com/user-attachments/assets/999c882a-1ec7-4e7e-8117-db570718931c
+
